@@ -83,7 +83,7 @@
 // Servos
 //
 #ifndef SERVO0_PIN
-  #define SERVO0_PIN                       P2_00
+  #define SERVO0_PIN                       P1_24//P2_00
 #endif
 
 //
